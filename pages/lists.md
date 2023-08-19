@@ -1,8 +1,7 @@
 ---
 layout: Post
 permalink: /lists
-title: List of Lists
+title: Lists
 feedformat: row
 ---
 
-List of all list!
