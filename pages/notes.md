@@ -1,6 +1,6 @@
 ---
 layout: Post
 permalink: /notes
-# feedformat: card
-# title: Notes
+title: Notes
+feedformat: card
 ---
