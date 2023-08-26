@@ -15,5 +15,6 @@ feed: show
 ### Notes
 - TFX pipeline have argument "enable_cache" that when we set it to True it will use the last result of that component that have same component argument as current running component argument
 ### Examples
-![[tfx_pipline_enable_cache.png]]
-![[tfx_compoenet_cache_custom_config.png]]
+![](/assets/img/tfx_pipeline_enable_cache.png)
+![](/assets/img/tfx_component_cache_custom_config.png)
+
