@@ -1,5 +1,5 @@
 ---
-title: TFX - Enable Disable Cache For Each Components
+title: TFX - Abstraction between model and TFX
 date: 26/08/2023
 feed: show
 ---
