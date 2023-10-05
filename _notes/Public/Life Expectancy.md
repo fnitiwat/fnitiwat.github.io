@@ -3,9 +3,10 @@ title: Life Expectancy
 date: 5/10/2023
 feed: show
 ---
-## Notes![[life_expectancy.png]]
-- ในปี 1900 โดยเฉลี่ยนแล้ว คนมีอายุขัย 31-32
-- ในปี 2019 - 2020 โดยเฉลี่ยนแล้ว คนมีอายุขัย 72-73
+## Notes
+![life_expectancy.png](/assets/img/life_expectancy.png)
+- ในปี 1900 โดยเฉลี่ยแล้ว คนมีอายุขัย 31-32
+- ในปี 2019 - 2020 โดยเฉลี่ยแล้ว คนมีอายุขัย 72-73
 ## Resources
 - https://en.wikipedia.org/wiki/Life_expectancy
 ## Summary
