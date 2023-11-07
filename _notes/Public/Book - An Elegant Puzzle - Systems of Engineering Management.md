@@ -1,0 +1,122 @@
+---
+title: Book - An Elegant Puzzle - Systems of Engineering Management
+date: 7/11/2023
+show: public
+---
+
+### Notes
+- Organizational design
+	- get the right people in the right places
+	- empower them to make decision
+	- hold them accountable for their results
+- 4 States of a team![[4 state of team.png]]
+	- fall behind
+		- วิธีสังเกตุ:  
+			- backlog เยอะกว่าอาทิตย์ก่อน 
+			- ในทีมทำงาน extremly hard แต่ยังไม่ค่อยมี progress
+			- มีเสียงไม่พอใจจาก user
+		- วิธีแก้:
+			- เติมคน
+	- treading water
+		- วิธีสังเกตุ:
+			- ทำงานที่สำคัญเสร็จ 
+				- แต่ยังไม่สามารถจ่าย technical debt ได้
+				- หรือไม่สามารถ เริ่ม project ใหม่ได้
+			- ในทีมยังทำงานหนัก
+			- user may seem happier
+		- วิธีแก้
+			- ลด work in progress
+	- repaying debt
+		- วิธีสังเกตุ:
+			- ทีมเริ่มทำการจ่าย technical debt
+			- เริ่มได้ประโยชน์จาก dept repayment
+		- วิธีแก้
+			- เติมเวลา
+	- innovating
+		- วิธีสังเกตุ:
+			- low technical debt
+			- งานส่วนใหญ่ทำให้ user พึงพอใจ
+- การรับ new member เข้า team จะ disrupt gelling process (น่าจะหมายถึง ความสามารถในการทำงานร่วมกัน) ซึ่งผู้เขียนบอกว่า วิธีที่เขาเจอแล้วง่ายกว่า คือ มี rapid growth period(เติมคน) ตามด้วย consolidate, gelling period
+- เขาแนะนำว่าให้ hiring team ลงไปที่ technical debt ไม่ใช่ innovation team เพื่อเลี่ยง incurring re-gelling cost on high-performing teams
+- you only get value from projects when they finish
+- culture of documentation ช่วยในการ on-boarding new member
+- ถ้าคุณถาม manager 
+	- เกี่ยวกับช่วงเวลาที่ไหนที่เขามีความภูมิใจที่สุด ซึ่งคำตอบมักจะเป็นการ ช่วยให้คนอื่น  grow
+	- แล้วช่วงเวลาไหนเป็น most chanllenging experience ซึ่งคำตอบมักจะเป็น layoff, reorganization, shift company direction
+- the key tools for leading efficient change are system thinking, metrics, vision
+-  ![[process flow.png]]
+- Is a reorg the right tool ?
+	- มี reorg 2 แบบ
+		- The one that solves a structural problem
+		- The one that you don't do
+	- Worst kind of reorg
+		- The one you do because you're avoiding people management issue
+- Approach for presenting to senior leader
+	- **Tie topic to business value** -> "Why should anyone care"
+	- ...
+- Prioritize long-term success over short-term quality
+- Finish small leveraged things
+- ถ่ายทอด context ให้ team is super valuable
+- community learning, reading group เป็นสิ่งที่ทำง่าย และ most rewarding 
+- Philosophy of management (ของคนเขียน)
+	- The golden rule -> "Treat other people like what you want then treated you"
+	- Give everyone an explicit area of ownership
+	- Reward and status should derive from finishing high-quality work
+	- Lead from the front, and never ask anyone to do something you wouldn't
+- almost every internal problem can be traceback to a missing or poor relationship, greate relationship it is possible to come together and solve almost anything
+- you have a limited budget for giving raises and can't satisfy everyone. If your customer don't love your product camaraderie can't pay salaries
+- process is a tool to make it easy for people collaborate
+- if your have poor relationship with your manager or your team member, spend even more time with them
+- partner with your manager
+	- to successfully with your manager
+		- ให้เขารู้บางอย่างเกี่ยวกับตัวคุณ
+		- เราต้องรู้บางอย่างเกี่ยวกับตัวเขา
+		- มีการอัพเดทเป็นครั้งคราวเกี่ยวกับการรู้จักตัวตนระหว่างเขาและคุณ
+	- things your manager should know about yo
+		- What problem you're trying to solve. How you're trying to solve each of them
+		- That you're making progress (Specifically, that you are not stuck)
+		- What you prefer work on (So that they can staff you properly)
+		- How busy you are (So that they know if you can take on an opportunity that come up)
+		- What is your professional goal and growth areas are. Where you are between bored and challenge
+- Membership
+	- If the idea of going to work give you anxiety, at some point you're going to decide stop coming
+	- program
+		- **recurring weekly event** -> allow coworker to interact socially e.g paper reading group, ...
+		- **coffee chat** -> randomly assign donut, get folk from difference team interacting when they don't need something from each other
+		- **team lunches**
+	- measure
+		- retention
+		- referral rate
+		- attendance rate
+		- quantity and completion rate of coffee chat
+- the most important thing is continuing your investment over the long term. Pick a few things that you are able to sustainably continue, get started, and layer in more as you build steam
+- maintaining a market position is fundamentally distinct from creating new markets.
+- work rule of thumb (เป็น framework ของผู้เขียนตอนเริ่มงานใหม่ๆ แต่ตอนหลังเขาเปลี่ยน framework)
+	- stay everywhere at least two years
+	- look for a place where i can spend four years
+- การทำงานใน ในบริษัทเดียว มันมีหลายแบบ stable era, rapid change 
+- Transitions are opportunities to raise the floor by building competency in new skills,
+- what matters most is the particular team you join.
+- A good interview experience starts with being kind to your candidate.
+- when I’ve been interviewed by someone who was both rude and unprepared, I still remember the unprepared part first and the rude part second.
+- ![[company size vs source.png]]
+	- small company rely most on referrals, large companies on source candidates
+- evaluate candidate
+	- certainty
+		- You want to be as confident as possible that the candidate will be a success in your company. Letting employees go can be hard on morale, and it takes a great deal of time to do well.
+	- candidate experience
+		- You want to be as confident as possible that the candidate will be a success in your company. 
+		- worst possible outcomes of your hiring funnel is that you identify folks you want to join your company, but they’re no longer interested in being part of it.
+- performance management systems
+	- selecting your company’s role model, identifying who to promote, and deciding who needs to leave.
+- Success in most life situations is about letting everyone continue to play, not about zero-sum outcomes.
+
+
+### Summary
+- หนังสือให้ความรู้เกี่ยวกับเนื้องานของ engineer manager 
+- ในความเห็นเรา
+	- จัดการเกี่ยวกับคน
+	- grow up team 
+	- hiring
+	- team momentum
+	- high level project executing 
