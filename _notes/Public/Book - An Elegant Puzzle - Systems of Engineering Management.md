@@ -1,7 +1,7 @@
 ---
 title: Book - An Elegant Puzzle - Systems of Engineering Management
 date: 7/11/2023
-show: public
+feed: show
 ---
 
 ### Notes
