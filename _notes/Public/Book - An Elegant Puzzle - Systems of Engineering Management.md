@@ -9,7 +9,7 @@ feed: show
 	- get the right people in the right places
 	- empower them to make decision
 	- hold them accountable for their results
-- 4 States of a team![[4 state of team.png]]
+- 4 States of a team ![](/assets/img/4-state-of-team.png)
 	- fall behind
 		- วิธีสังเกตุ:  
 			- backlog เยอะกว่าอาทิตย์ก่อน 
@@ -44,7 +44,7 @@ feed: show
 	- เกี่ยวกับช่วงเวลาที่ไหนที่เขามีความภูมิใจที่สุด ซึ่งคำตอบมักจะเป็นการ ช่วยให้คนอื่น  grow
 	- แล้วช่วงเวลาไหนเป็น most chanllenging experience ซึ่งคำตอบมักจะเป็น layoff, reorganization, shift company direction
 - the key tools for leading efficient change are system thinking, metrics, vision
--  ![[process flow.png]]
+-  ![](process-flow.png)
 - Is a reorg the right tool ?
 	- มี reorg 2 แบบ
 		- The one that solves a structural problem
@@ -99,7 +99,7 @@ feed: show
 - what matters most is the particular team you join.
 - A good interview experience starts with being kind to your candidate.
 - when I’ve been interviewed by someone who was both rude and unprepared, I still remember the unprepared part first and the rude part second.
-- ![[company size vs source.png]]
+- ![](company-size-vs-source.png)
 	- small company rely most on referrals, large companies on source candidates
 - evaluate candidate
 	- certainty
