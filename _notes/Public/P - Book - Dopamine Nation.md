@@ -52,5 +52,5 @@ feed: show
 - try to balance pleasure & pain, not seeking heavily only pleasure
 
 ---
-Q: How scientist measure Dopamine
-Q: In the future can we simplify Dopamine measurement and use it in many use-cases.
+- Q: How scientist measure Dopamine
+- Q: In the future can we simplify Dopamine measurement and use it in many use-cases.
