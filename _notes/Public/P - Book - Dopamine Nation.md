@@ -26,19 +26,23 @@ feed: show
 > The brain processes pleasure and pain in the same place. Further, pleasure and pain work like opposite sides of a balance.
 
 - ส่วนตัวคิดว่า concept นี้น่าสนใจที่สุดละ เขาบอกว่า pain & pleasure เป็นเหมือน ไม้กระดานที่ pain และ pleasure ที่อยู่คนละฝั่งกันสิ่งที่เราต้องทำคือพยายาม balance ทั้ง 2 ฝั่ง ซึ่งทั้ง 2 ฝั่ง จะ relate กัน เวลาฝั่งนั้นขึ้น สุดท้ายระบบจะค่อยๆปรับสมดุลกลับมาให้ balance
+
  > What goes up must come down
- ![](/assets/img/pleasure_and_pain_balance.jpeg)
+ 
+![](/assets/img/pleasure_and_pain_balance.jpeg)
  
 - การที่เราทำ pleasure stimulus  เดิม ซ้ำๆ จะทำให้เรา pleasure กับสิ่งนั้นน้อยลงและต้องใช้มันมากขึ้นถึงจะได้ pleasure เท่าเดิม
-	> With repeated exposure to the same or similar pleasure stimulus, the initial deviation to the side of pleasure gets weaker and shorter and the after-response to the side of pain gets stronger and longer, a process scientist call neuroadaptation. That is, with repetition, our gremlins get bigger, faster and more numerous and we need more of our drug of choice to get the same effect.
- ![](/assets/img/pleasure_and_pain_balance_shorter.jpeg)
+
+> With repeated exposure to the same or similar pleasure stimulus, the initial deviation to the side of pleasure gets weaker and shorter and the after-response to the side of pain gets stronger and longer, a process scientist call neuroadaptation. That is, with repetition, our gremlins get bigger, faster and more numerous and we need more of our drug of choice to get the same effect. 
+
+![](/assets/img/pleasure_and_pain_balance_shorter.jpeg)
 
 ### Addictions
 > One of the biggest risk factors for getting addicted to any drug is easy access to that drug. When it's easier to get a drug, we're more likely to try it. In trying it, we're more likely to get addicted to it.
+
 - ในหนังสือเล่มนี้ไม่ได้บอกไว้ว่าจริงๆแล้วนิยาม ของ addictions คืออะไร
-- แต่ถ้าเราที่หาในเน็ต
-	- chronic relapsing disorder (การติดเรื้อรัง)
-	
+- แต่ถ้าเราที่หาในเน็ต คือ chronic relapsing disorder (การติดเรื้อรัง)
+
 ### Recovery
 - หัวข้อนี่ยังไม่ค่อยแน่ใจ ในหนังสือก็มียกตัวอย่าง คนที่สามารถ recovery from addict ได้ แต่ เหมือนใน podcast ก็มีเคสที่ไม่สามารถ recovery from addict ได้
 - คิดว่าถ้าอยากเข้าใจต้อง take time หาข้อมูลต่อ
