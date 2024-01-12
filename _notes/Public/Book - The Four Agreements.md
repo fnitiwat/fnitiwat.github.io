@@ -1,6 +1,6 @@
 ---
-title: Book - The Four Agreements
-date: 2024-01-13
+title: Book - Nolan Variations
+date: 2023-12-31
 feed: show
 ---
 
