@@ -29,7 +29,7 @@ baseurl: ""
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: Nitiwat Sompawong # Change this 
 copyright:  
-  year: © 2023
+  year: © 2024
   msg: Nitiwat Sompawong
 
 # Set title and content for private & broken link tooltop
