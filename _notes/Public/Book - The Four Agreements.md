@@ -3,6 +3,7 @@ title: Book - Four Agreements
 date: 2024-01-13
 feed: show
 ---
+
 - รู้จักมาจากการที่เป็นหนังสือใน list ของ jack dorsey
 - หนังสือพูดเกี่ยวกับ agreement 4 ข้อ
 	- ไม่ใช้ถ้อยคำเพื่อทำร้าย
