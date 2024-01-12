@@ -1,5 +1,5 @@
 ---
-title: Book - Old man and the sea
+title: Book - Old Man And The Sea
 date: 14/01/2024
 feed: show
 ---
