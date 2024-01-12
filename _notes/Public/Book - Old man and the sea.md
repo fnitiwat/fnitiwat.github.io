@@ -1,6 +1,6 @@
 ---
 title: Book - Old Man And The Sea
-date: 14/01/2024
+date: 2024-01-13
 feed: show
 ---
 - เคยเห็นผ่านๆในงานหนังสือรอบนึง
