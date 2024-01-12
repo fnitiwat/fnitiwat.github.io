@@ -10,5 +10,6 @@ feed: show
 
 > Remember that code is really the language in which ultimately express the requirements. We may create language that are closer to the requirements. We may create tools that help us parse and assemble those requirements into formal structure. But we will never eliminate necessary precision---so there will alway be code
 
+- ผู้เขียนบอกการจะเขียน clean code ได้ก็เหมือนกับการปั่นจักรยาน เราสามารถเรียนทฤษฎีได้ แต่ถ้าอยากจะทำเป็นต้องฝึกลงมือทำเยอะๆ
 
 - Q: Prompt ถือเป็น Code ไหม ?
